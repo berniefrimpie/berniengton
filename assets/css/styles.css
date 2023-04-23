@@ -216,7 +216,7 @@ img {
     align-self: flex-end;
     font-size: var(--big-font-size);
     color: var(--white-color);
-    line-height: .6;
+    line-height: .8;
 }
 
 .home__title {
@@ -563,16 +563,15 @@ img {
         right: 24%;
     }
 }
- /*  Bouncing efect*/
+
+
 /*  Bouncing efect*/
 .bouncing-text {
-    position: relative;
-    display: flex;
-    align-self: flex-end;
-        font-size: var(--big-font-size);
-        color: var(--white-color);
-        line-height: .0;
-    font-family: arial;
+            position: relative;
+            display: flex;
+            font-size: 20px;
+            font-family: arial black;
+            width: 100%;
 
 }
 
