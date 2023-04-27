@@ -1,4 +1,5 @@
-# nanafrimpie
+# Berniengton
+
 MIT License
 
 Copyright (c) 2023 Bernard Y. Frimpong
