@@ -258,10 +258,13 @@ img {
     background-color: var(--first-color);
     border-radius: 60%;
     overflow: hidden;
+
+
 }
 
 .about__img img {
     width: 100px;
+
 }
 
 .about__subtitle {
@@ -319,8 +322,7 @@ img {
     width: 70%;
     display: block;
     margin-left: auto;
-
-
+    box-shadow: 0 0 10px 10px white inset;
 
 }
 
