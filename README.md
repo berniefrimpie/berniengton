@@ -1,6 +1,10 @@
 # Berniengton
 
+#
 Berniengton is a personal portfolio website. Built with Html, Css, JavaScript and also Bootsrap (for the responsiveness of the page), Berniengton showcases my talent and my own unique style as a web developer.
+
+#
+
 
 
 
