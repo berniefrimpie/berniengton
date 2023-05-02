@@ -291,6 +291,16 @@ img {
     color: var(--first-color);
 }
 
+/* ===== About Icon Hover =====*/
+.hide {
+    display: none;
+}
+
+.about__social-icon:hover+.hide {
+    display: inline-block;
+    font-size: var(--small-font-size);
+}
+
 /* ===== SKILLS =====*/
 .skills__container {
     row-gap: 2rem;
